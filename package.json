@@ -1,7 +1,7 @@
 {
   "name": "koa-notifier",
   "description": "Wrap `node-notifier` for koa, cute for test.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "keywords": [
     "koa",

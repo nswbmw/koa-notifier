@@ -12,7 +12,7 @@ if (process.env.NODE_ENV !== 'production') {
       icon: __dirname + '/success.jpg'
     },
     '404': {
-      title: 'Opps, 404',
+      title: 'Oops, 404',
       message: 'This page was not founded.',
       icon: __dirname + '/error.jpg'
     },
