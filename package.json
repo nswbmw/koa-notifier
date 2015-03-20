@@ -1,0 +1,25 @@
+{
+  "name": "koa-notifier",
+  "description": "Wrap `node-notifier` for koa, cute for test.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "keywords": [
+    "koa",
+    "error",
+    "notifier",
+    "console",
+    "middleware"
+  ],
+  "dependencies": {
+    "node-notifier": "^4.1.2",
+    "statuses": "^1.2.1"
+  },
+  "devDependencies": {
+    "koa": "*",
+    "koa-route": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/koa-notifier.git"
+  }
+}
